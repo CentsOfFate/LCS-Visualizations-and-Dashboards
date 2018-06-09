@@ -1,4 +1,5 @@
-# League of Legends Championship Series Visualizations and Dashboards
+# League of Legends Championship Series 
+# Visualizations and Dashboards
 
 ## Data Visualizations and Power BI
 * [North American LCS Champion and Player Statistics Visualizations](https://github.com/CentsOfFate/LCS-Visualizations-and-Dashboards/blob/master/NA%20LCS%20Data%20Visualizations%20-%20Spring%20Split.ipynb)
